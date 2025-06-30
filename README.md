@@ -1,6 +1,6 @@
 using this code is easy , all you need is a mongodb compass running locally. 
 run 
-<pre> ```bash npm run dev ``` </pre>
+<pre> npm run dev </pre>
 
 this starts the server and installs all node dependency and starts the nodemon server that hot reloads upon change
 
